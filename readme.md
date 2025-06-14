@@ -41,7 +41,7 @@
 | Image Handling | Coil              |
 | Version Control| Git + GitHub      |
 | Backend        | Spring Boot (by collaborators) |
-| Web Platform   | React (shared backend) |
+| Web Platform   | React (shared backend by collaborators) |
 
 ---
 
