@@ -66,11 +66,10 @@ I’m grateful to have worked with an incredible team:
 
 ## 📸 Screenshots
 
-> *Add your screenshots or a project demo banner here*
-
-![Screenshot 1](https://youssefbenhenda.vercel.app/static/media/4.9f47effd33ff27de2798.png)
-![Screenshot 2](https://youssefbenhenda.vercel.app/static/media/8.8dc7c183c785815b6c2d.png)
-
+<p align="center">
+  <img src="https://youssefbenhenda.vercel.app/static/media/4.9f47effd33ff27de2798.png" alt="Screenshot 1" width="30%" style="margin-right:10px;" />
+  <img src="https://youssefbenhenda.vercel.app/static/media/8.8dc7c183c785815b6c2d.png" alt="Screenshot 2" width="30%" style="margin-right:10px;" />
+</p>
 ---
 
 ## 🏫 About ISSATSO++
